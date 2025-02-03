@@ -11,6 +11,7 @@ This project builds upon the classic Piotroski F-Score model, enhancing it with 
   - Profitability Ratios (4 scores)
   - Efficiency Measures (2 scores)
   - Capital Structure Metrics (3 scores)
+  - High growth score (4)
     
 - Each category is analyzed in its own file, allowing independent examination of specific metrics.
   
